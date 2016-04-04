@@ -134,3 +134,8 @@ The basic unit of development is Squad.
 ### Kanban: Physical or virtual
 
 Some teams prefer physical Kanban boards over virtual ones. A physical board uses sticky notes or index cards for the Kanban cards, and the board is drawn on a whiteboard or wall.  TODO: flesh this out.
+
+<!-- Google Analytics --> 
+<img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/agile_a_la_carte' style='width:1px; height:1px;' >
+
+
