@@ -14,6 +14,7 @@ A reference for organizations that are problem-oriented.
 <img src='http://bits.owocki.com/3y411E383G3T/Image%202016-04-03%20at%209.39.53%20PM.png' />
 ##Waterfall
 
+<img src='http://bits.owocki.com/100v0d3J2p1j/Image%202016-04-03%20at%209.56.50%20PM.png' />
 
 ## Agile Manifesto
 
@@ -24,6 +25,8 @@ Customer collaboration over contract negotiation
 Responding to change over following a plan
 
 ```
+
+The things on the right matter, but the things on the left are more important.
 
 ##Tools
 
