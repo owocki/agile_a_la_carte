@@ -119,7 +119,7 @@ These tools all solve problems:
 | Scheduling  | Sprint Planning  |  In scrum, sprint Planning is a meeting that marks the beginning of a sprint.  The team commits to a certain amount of work, without influence from outsiders.  | 
 | Visibility  | Kanban Board  |  Kanban = workflow visualization tool that enables you to optimize the flow of your work  | 
 | Feedback  | Retrospective  |  The sprint retrospective is an important mechanism that allows a team to continuously evolve and improve throughout the life of a project. It includes three main questions/points for discussion: 1) What went well during the sprint cycle? 2) What went wrong during the sprint cycle? 3) What could we do differently to improve? | 
-| Specifications  | Stories  |   short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: `As a <type of user>, I want <some goal> so that <some reason>. `  | 
+| Specifications  | Stories  |   Short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: `As a <type of user>, I want <some goal> so that <some reason>. `  | 
 | Agility  | Standups  |  A sync-ing meeting (usually daily) in which attendees typically participate while standing. The discomfort of standing for long periods is intended to keep the meetings short.  | 
 | Dependancy Management  | Dependancy Mapping  |  Sometimes done with just a piece of string between two stories.  | 
 
@@ -186,7 +186,7 @@ The third and final role in Scrum project management is the Scrum team itself. A
 
 ## Scrum::daily standup
 
-Each day the Scrum Master leads the team in the Daily Scrum Meeting. This meeting designed to provide status on the progress of the sprint. Each team member speaks to three questions: what did I do yesterday, what did I do today, and what impediments got in my wa
+Each day the Scrum Master leads the team in the Daily Scrum Meeting. This meeting designed to provide status on the progress of the sprint. Each team member speaks to three questions: what did I do yesterday, what did I do today, and what impediments got in my way.
 
 ## Scrum::Sprint Review
 
@@ -353,6 +353,29 @@ Changing existing software code in order to improve the overall design. Refactor
 ### Kanban: Physical or virtual
 
 Some teams prefer physical Kanban boards over virtual ones. A physical board uses sticky notes or index cards for the Kanban cards, and the board is drawn on a whiteboard or wall.  
+
+## References
+
+* https://en.wikipedia.org/wiki/Scrum_(software_development)
+* https://en.wikipedia.org/wiki/Kanban
+* https://en.wikipedia.org/wiki/Waterfall_model
+* https://en.wikipedia.org/wiki/Extreme_programming
+* http://agilemanifesto.org/
+* http://www.allaboutagile.com/
+* https://en.wikipedia.org/wiki/Sprint_(software_development)
+* http://leankit.com/learn/kanban/kanban-board/
+* https://www.scrumalliance.org/community/articles/2014/april/key-elements-of-sprint-retrospective
+* https://www.mountaingoatsoftware.com/
+* https://en.wikipedia.org/wiki/Stand-up_meeting
+* http://www.telerik.com/teampulse/agile-vocabulary
+* https://www.versionone.com/scrum-project-management/
+* http://scaledagileframework.com/product-owner/
+* http://whatis.techtarget.com/definition/scrum-master
+* https://www.captechconsulting.com/blogs/learning-the-agile-vocabulary
+* http://www.scrum-institute.org/Scrum_Roles_The_Scrum_Team.php
+* Scaling Agile * Spotify
+* https://en.wikipedia.org/wiki/Code_smell
+* http://www.construx.com/10x_Software_Development/Technical_Debt/
 
 <!-- Google Analytics --> 
 <img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/agile_a_la_carte' style='width:1px; height:1px;' >
