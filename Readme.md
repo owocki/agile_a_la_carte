@@ -141,9 +141,13 @@ Abnormal termination is essentially blowing up the sprint and starting a new spr
 
 ## Scrum::estimates
 
-Agile estimation is a team sport.  Everyone who builds software is involved.  The product owner typically is involved but does not get to vote on estimation.
+_Traditional_ software teams give estimates in a time format: days, weeks, months. 
 
-Traditional software teams give estimates in a time format: days, weeks, months.  Many estimation systems use Fibonacci numbers (1,2,3,5,8).  If an item is > 8, it is often broken down into multiple tasks.  It is VERY IMPORTANT that estimates are not treated as deadlines. 
+In contrast, _Agile_ estimation is a team sport.  Everyone who builds software is involved.  The product owner typically is involved but does not get to vote on estimation.
+
+In scrum, estimation systems are called 'story points' and use Fibonacci numbers (1,2,3,5,8).  If an item is > 8, it is often broken down into multiple tasks.  
+
+Estimates are relative to other work within a team.  They *cannot* be transcribed to hours, wdays, weeks.  It is VERY IMPORTANT that estimates are not treated as deadlines. 
 
 And ideal feature is that a team learns from past estimates.
 
