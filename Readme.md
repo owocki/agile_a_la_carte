@@ -198,7 +198,7 @@ Acts as a repository for requirements targeted for release at some point. These 
 
 ## Scrum::Team velocity
 
-A relative number which describes how much work the team can get done per sprint
+A relative number which describes how much work the team can get done per sprint.   Velocity in scrum is measured in [story points / estimates](https://github.com/owocki/agile_a_la_carte#scrumestimates).
 
 ## Scrum::retrospective
 
