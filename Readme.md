@@ -212,9 +212,20 @@ The sprint retrospective is usually the last thing done in a sprint. Many teams 
 
 Although there are many ways to conduct an agile sprint retrospective, our recommendation is to conduct it as a start-stop-continue meeting. This is perhaps the simplest, but often the most effective way to conduct a retrospective. Using this approach each team member is asked to identify specific things that the team should:
 
-Start doing
-Stop doing
-Continue doing
+* Start doing
+* Stop doing
+* Continue doing
+
+From the [Retrospective Prime Directive](http://www.retrospectives.com/pages/retroPrimeDirective.html): 
+
+One of the most obvious fears people have when first trying a retrospective is that the ritual will become a negative gripe session, interspersed with blame and counter blame.
+
+Clearly such an event will not contribute to much learning.  The key to a constructive successful ritual is assuring that all the participants adhere to the Retrospective Prime Directive.
+
+> Regardless of what we discover, we understand and truly believe that everyone did the best job they could, given what they knew at the time, their skills and abilities, the resources available, and the situation at hand.	
+
+At the end of a project everyone knows so much more. Naturally we will discover decisions and actions we wish we could do over. This is wisdom to be celebrated, not judgement used to embarrass.
+
 
 ## Scrum::Scrum team
 
