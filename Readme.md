@@ -65,6 +65,7 @@ A reference for organizations that are intellectually-honest and problem-oriente
   - [Refactoring](#refactoring)
 - [FAQ](#faq)
     - [Kanban: Physical or virtual](#kanban-physical-or-virtual)
+- [People Management](#people-management)
 
 #Agile
 
@@ -395,6 +396,42 @@ Some teams prefer physical Kanban boards over virtual ones. A physical board use
 * Scaling Agile * Spotify
 * https://en.wikipedia.org/wiki/Code_smell
 * http://www.construx.com/10x_Software_Development/Technical_Debt/
+
+# People Management
+
+## Sticky Note Game
+
+Here's a blog post explaining it  http://www.tablexi.com/developers/xi-to-eye-the-sticky-note-game/, but TLDR is 
+
+```
+STEP 0 
+Schedule
+* 1 employee
+* 1 manager
+* 1 or 2 advocates for employee (employee choses them)
+We bring lots of sharpies + sticky notes.  Sponsors get diff colored sticky notes than Employee.
+
+STEP 1
+We Start by just asking "What does success look like in the next 6 months for you?"
+It's totally open ended, that could mean anything:
+	Community related
+	Project related
+	Skill related
+	Work life balance related
+
+STEP 2
+Then we put the sticky notes on the board and talk through them.  
+	1. Which are top priority?
+	2. What are specific action items SOON you could take to reach them?
+
+STEP 3
+Take notes into medium you decide upon: a google doc, trello, pivotal tracker, etc.
+
+STEP 4
+Optional: Follow up between advocate and employee a few weeks later
+
+```
+
 
 <!-- Google Analytics --> 
 <img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/agile_a_la_carte' style='width:1px; height:1px;' >
