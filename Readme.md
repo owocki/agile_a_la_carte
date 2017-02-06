@@ -432,6 +432,15 @@ Optional: Follow up between advocate and employee a few weeks later
 
 ```
 
+## One on ones
+
+* [Update, Vent, the Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/)
+* [First one on one questions](http://larahogan.me/blog/first-one-on-one-questions/)
+* [1 on 1 topic generator](https://veryhappythings.github.io/101-questions/)
+
+## TODO: Fill out the people management section with more ideas (PRs welcome)
+
+
 
 <!-- Google Analytics --> 
 <img src='https://ga-beacon.appspot.com/UA-1014419-15/owocki/agile_a_la_carte' style='width:1px; height:1px;' >
