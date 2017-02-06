@@ -440,6 +440,10 @@ Optional: Follow up between advocate and employee a few weeks later
 * [First one on one questions](http://larahogan.me/blog/first-one-on-one-questions/)
 * [1 on 1 topic generator](https://veryhappythings.github.io/101-questions/)
 
+## General People Management
+
+* [Don't create a sense of urgency, create a sense of purpose](https://medium.com/@kimber_lockhart/don-t-create-a-sense-of-urgency-foster-a-sense-of-purpose-724e309ecdb0#.tee6wqub7)
+
 ## TODO: Fill out the people management section with more ideas (PRs welcome)
 
 
