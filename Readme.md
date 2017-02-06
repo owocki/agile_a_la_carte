@@ -399,7 +399,7 @@ Some teams prefer physical Kanban boards over virtual ones. A physical board use
 
 # People Management
 
-## Sticky Note Game
+## Goal setting: Sticky Note Game
 
 Here's a blog post explaining it  http://www.tablexi.com/developers/xi-to-eye-the-sticky-note-game/, but TLDR is 
 
@@ -433,6 +433,8 @@ Optional: Follow up between advocate and employee a few weeks later
 ```
 
 ## One on ones
+
+1:1s are about people & their happiness, not product management.  Some assorted links:
 
 * [Update, Vent, the Disaster](http://randsinrepose.com/archives/the-update-the-vent-and-the-disaster/)
 * [First one on one questions](http://larahogan.me/blog/first-one-on-one-questions/)
