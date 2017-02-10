@@ -444,6 +444,11 @@ Optional: Follow up between advocate and employee a few weeks later
 
 * [Don't create a sense of urgency, create a sense of purpose](https://medium.com/@kimber_lockhart/don-t-create-a-sense-of-urgency-foster-a-sense-of-purpose-724e309ecdb0#.tee6wqub7)
 
+## Org structures
+
+* [Scaling Agile @ Spotify](http://bits.owocki.com/2M0N3D0O410C/113617905-scaling-agile-spotify-11.pdf)
+* [Valve](http://bits.owocki.com/0n0n0z0V1N1N/valvehandbooklowres.pdf)
+
 ## TODO: Fill out the people management section with more ideas (PRs welcome)
 
 
