@@ -443,7 +443,7 @@ Optional: Follow up between advocate and employee a few weeks later
 ## General People Management
 
 * [Don't create a sense of urgency, create a sense of purpose](https://medium.com/@kimber_lockhart/don-t-create-a-sense-of-urgency-foster-a-sense-of-purpose-724e309ecdb0#.tee6wqub7)
-
+* [How to ask for the truth](https://medium.mikeindustries.com/how-to-ask-for-the-truth-77afd87f8918#.1r3wy7lyk) 
 ## Org structures
 
 * [Scaling Agile @ Spotify](http://bits.owocki.com/2M0N3D0O410C/113617905-scaling-agile-spotify-11.pdf)
